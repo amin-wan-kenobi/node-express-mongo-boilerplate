@@ -1,2 +1,3 @@
 /node_modules
-package-lock.json
+/documentations
+.DS_Store
